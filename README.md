@@ -4,3 +4,18 @@ This crypto-price-app was build using ReactJS. We can find the latest cryptocurr
 
 Live site [crypto-online](https://crypto-online.netlify.app/)
 
+`Languages`
+```
+- html
+- css
+- javascipt
+- reactjs
+```
+
+`Tools`
+```
+- vscode
+- chrome
+- git
+- netlify
+```
